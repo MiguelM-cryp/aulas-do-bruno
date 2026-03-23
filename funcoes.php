@@ -11,7 +11,4 @@ function divisao($n1, $n2){
 function multiplicacao($n1, $n2){
     return($n1*$n2);
 }
-function raizQuadrada($n1){
-    return($n1^(1/2));
-}
 ?>
